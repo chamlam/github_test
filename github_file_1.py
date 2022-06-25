@@ -1,2 +1,5 @@
+
+def print_things(x):
+    print (x)
 if __name__ == "__main__":
-    print("hello, this is the file created to be uploaded in github")
+    print_things("hello, this is the file created to be uploaded in github")
